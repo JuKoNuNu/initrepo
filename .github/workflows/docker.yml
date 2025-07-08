@@ -72,3 +72,4 @@ jobs:
           docker ps
           echo "Container logs:"
           docker logs $CONTAINER
+          
